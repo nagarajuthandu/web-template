@@ -1,0 +1,52 @@
+[
+    
+      {
+        "name": "Custom Web Design",
+        "description": "Tailored web designs that reflect your brand's unique identity, with user-centric layouts and visuals.",
+        "imageUrl": "/assets/images/products/prod_1.jpg"
+      },
+      {
+        "name": "Responsive Web Design",
+        "description": "Ensure your website looks great and functions smoothly on any device, from mobile phones to desktop computers.",
+        "imageUrl": "/assets/images/products/prod_2.jpg"
+      },
+      {
+        "name": "E-Commerce Development",
+        "description": "Create an online store with seamless shopping experiences, integrated payment gateways, and secure transactions.",
+        "imageUrl": "/assets/images/products/prod_1.jpg"
+      },
+      {
+        "name": "SEO Optimization",
+        "description": "Optimize your website for better visibility on search engines, helping you attract more traffic and customers.",
+        "imageUrl": "/assets/images/products/prod_2.jpg"
+      },
+      {
+        "name": "Website Redesign",
+        "description": "Revamp your outdated website with a modern, visually appealing design that enhances functionality and user engagement.",
+        "imageUrl": "/assets/images/products/prod_1.jpg"
+      },
+      {
+        "name": "Content Management System (CMS)",
+        "description": "Manage and update your website's content easily with intuitive content management systems like WordPress and Joomla.",
+        "imageUrl": "/assets/images/products/prod_2.jpg"
+      },
+      {
+        "name": "Branding & Identity",
+        "description": "Create a lasting impression with a consistent and memorable brand identity, from logos to typography and color schemes.",
+        "imageUrl": "/assets/images/products/prod_2.jpg"
+      },
+      {
+        "name": "Web Hosting & Maintenance",
+        "description": "Reliable web hosting solutions with ongoing maintenance and security monitoring to ensure your website runs smoothly.",
+        "imageUrl": "/assets/images/products/prod_1.jpg"
+      },
+      {
+        "name": "Web Development",
+        "description": "Transform your ideas into reality with custom web development solutions, from simple websites to complex web applications.",
+        "imageUrl": "/assets/images/products/prod_2.jpg"
+      }
+    
+    
+   
+  ]
+  

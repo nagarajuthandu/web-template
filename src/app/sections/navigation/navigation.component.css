@@ -1,0 +1,10 @@
+
+.sticky-navigation {
+  position: sticky;
+  top: 0; /* Sticks at the top */
+  z-index: 9999; /* Ensure it's above other elements */
+  background-color: #ffffff; /* Background color for visibility */
+  border-bottom: 1px solid #e0e0e0; /* Optional: Add a border */
+  padding: 10px 20px; /* Spacing */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }

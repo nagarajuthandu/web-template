@@ -1,0 +1,27 @@
+.card-text.description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-height: 4.6em; 
+  }
+  .card-header{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    max-width: 400px; 
+    height: 250px; 
+    margin: 10px auto; 
+    overflow: hidden; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    background-color: #f8f9fa;
+  }
+  .card-img-top{
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+    display: block; 
+    transition: transform 0.3s ease;
+  }

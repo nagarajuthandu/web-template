@@ -1,0 +1,31 @@
+.carousel{
+    width: 100%; /* 100% width of its parent container */
+    height: 450px; /* Fixed height */
+    overflow: hidden; /* Ensure content doesn't overflow */
+}
+.carousel {
+    width: 100%; /* 100% width of its parent container */
+  }
+  
+  .carousel-inner {
+    height: 100%; /* 100% height of the carousel container */
+    display: flex;
+    align-items: center; /* Vertically align images */
+  }
+  
+  .carousel-item {
+    height: 100%; /* 100% height of the carousel container */
+    position: relative;
+  }
+  
+  .carousel-item img {
+    object-fit: cover; /* Maintain aspect ratio and cover the item */
+    width: 100%; /* 100% width of the item */
+    height: 100%; /* 100% height of the item */
+  }
+    /* Media query for screens smaller than a certain width (e.g., 768px) */
+@media (max-width: 768px) {
+  .carousel {
+      height: 300px; /* Adjust the height for smaller screens */
+  }
+}

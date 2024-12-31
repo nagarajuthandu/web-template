@@ -1,0 +1,13 @@
+[
+    {
+      "image": "/assets/images/slides/slide_1.jpg",
+      "caption": "Custom Web Design",
+      "description": "Tailored web designs that reflect your brand's unique identity, with user-centric layouts and visuals."
+    },
+    {
+      "image": "/assets/images/slides/slide_2.jpg",
+      "caption": "Responsive Web Design",
+      "description": "Ensure your website looks great and functions smoothly on any device, from mobile phones to desktop computers."
+    }
+  ]
+  
